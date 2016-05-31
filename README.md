@@ -74,6 +74,13 @@ The FB app and your server should be linked now.
 Then follow the FB indication. 
 And try to send messages to you FB page. It everything is set up correctly, it should say `hello human` when you send `hello`.
 
+====
+
+Info importante indiquée sur la doc de FB :
+>These ids are page-scoped ids. This means that the ids are unique for a given page.
+
+>If you have an existing Facebook Login integration, user IDs are app-scoped and will not work with the Messenger platform.
+
 Post an issue if you have any question, or need any help.
 
 I'd like to thank Hyper (https://github.com/hyperoslo) for their work on this gem.
